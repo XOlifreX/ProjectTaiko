@@ -1,0 +1,9 @@
+# ignore iml files (IntelliJ Stuff).
+*.iml
+
+# ignore Jetbrains files.
+.idea/
+
+# ignore output files.
+out/
+devMusic/
